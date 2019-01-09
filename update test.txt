@@ -1,0 +1,1 @@
+this test determines if https://github.com/TurnOffTheLightz/SymulatorWojny.git was updated correctly.
